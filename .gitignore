@@ -1,0 +1,4 @@
+.DS_*
+__pycache__
+venv
+data.txt
